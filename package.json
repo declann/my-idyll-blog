@@ -9,6 +9,9 @@
     "authorView": false,
     "output": "docs/"
   },
+  "scripts": {
+    "build": "idyll"
+  },
   "dependencies": {
     "d3": "^4.0.0",
     "idyll": "^4.4.0",
