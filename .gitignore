@@ -61,3 +61,5 @@ typings/
 build
 
 package-lock.json
+docs/docs.zip
+docs

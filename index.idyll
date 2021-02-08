@@ -1,8 +1,8 @@
-[meta title:"My Idyll Blog" description:"Short description of your project" /]
+[meta title:"My Idyll Blogy" description:"Short description of your project" /]
 
 [Header
   fullWidth:true
-  title:"My Idyll Blog"
+  title:"My Idyll Bloy"
   subtitle:"Welcome to Idyll. Open index.idyll to start writing"
   author:"Your Name Here"
   authorLink:"https://idyll-lang.org"
